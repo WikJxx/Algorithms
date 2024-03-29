@@ -1,5 +1,3 @@
-from psutil import swap_memory
-
 def left(i):
     return 2*i +1
 def right(i):
